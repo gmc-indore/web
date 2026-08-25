@@ -1,0 +1,620 @@
+[
+  {
+    "id": "gmc-hpr-sg",
+    "name": "High-Pressure Reactor \u2014 Split Glove Box Series",
+    "model": "GMC-HPR-SG",
+    "category": "High-Pressure Reactors & Autoclaves",
+    "page": 5,
+    "applications": [
+      "Hydrogenation",
+      "Catalytic reactions",
+      "Hydrothermal synthesis",
+      "High-pressure chemical processes"
+    ],
+    "description": "A split-type high-pressure reactor with separate heating and reactor assemblies. The heating assembly can be installed inside a glove box or controlled-atmosphere enclosure, while the reactor remains outside for convenient operation with controlled atmospheres.",
+    "specifications": {
+      "Model No.": "HPR-SG-25 / HPR-SG-50 / HPR-SG-100",
+      "Maximum Pressure": "Up to 150 bar",
+      "Maximum Temperature": "Up to 200 \u00b0C",
+      "Reactor Volume": "25 ml to 100 ml (as per requirement)",
+      "Material": "SS316, PTFE",
+      "Heating Control": "Digital PID Controller",
+      "Power Supply": "230V AC",
+      "Magnetic Stirring": "Yes"
+    },
+    "custom": "Custom-made model as required by user.",
+    "image": "assets/products/page-05.jpg"
+  },
+  {
+    "id": "gmc-hpr-hpr-im",
+    "name": "High-Pressure Reactor \u2014 Integrated Magnetic Stirring Series",
+    "model": "GMC-HPR-HPR-IM",
+    "category": "High-Pressure Reactors & Autoclaves",
+    "page": 6,
+    "applications": [
+      "General laboratory synthesis",
+      "Hydrothermal synthesis",
+      "Solvothermal applications"
+    ],
+    "description": "A compact integrated high-pressure reactor with built-in heating and PID temperature control. The reactor can be placed on a laboratory stirrer for magnetic stirring while maintaining temperature control.",
+    "specifications": {
+      "Model No.": "HPR-IM-25 / HPR-IM-50 / HPR-IM-100",
+      "Maximum Pressure": "Up to 150 bar",
+      "Maximum Temperature": "Up to 200 \u00b0C",
+      "Reactor Volume": "25 ml to 100 ml (as per requirement)",
+      "Material": "SS316, PTFE",
+      "Heating Control": "Digital PID Controller",
+      "Power Supply": "230V AC",
+      "Magnetic Stirring": "Yes"
+    },
+    "custom": "Custom-made model as required by user.",
+    "image": "assets/products/page-06.jpg"
+  },
+  {
+    "id": "hpr-iv",
+    "name": "High-Pressure Reactor \u2014 Integrated Vertical Series",
+    "model": "HPR-IV",
+    "category": "High-Pressure Reactors & Autoclaves",
+    "page": 7,
+    "applications": [
+      "Static high-pressure reactions",
+      "Crystallization studies",
+      "Hydrothermal synthesis",
+      "Materials development"
+    ],
+    "description": "A vertically integrated high-pressure reactor with built-in heating assembly and PID temperature controller. Its space-saving vertical design is intended for static high-pressure reactions and controlled-temperature materials work where magnetic stirring is not required.",
+    "specifications": {
+      "Model No.": "HPR-IV-25 / HPR-IV-50 / HPR-IV-100",
+      "Maximum Pressure": "Up to 150 bar",
+      "Maximum Temperature": "Up to 200 \u00b0C",
+      "Reactor Volume": "25 ml to 100 ml (as per requirement)",
+      "Material": "SS316, PTFE",
+      "Heating Control": "Digital PID Controller",
+      "Power Supply": "230V AC",
+      "Magnetic Stirring": "No"
+    },
+    "custom": "Custom-made model as required by user.",
+    "image": "assets/products/page-07.jpg"
+  },
+  {
+    "id": "gmc-hpa-101",
+    "name": "High-Pressure Autoclave",
+    "model": "GMC-HPA-101",
+    "category": "High-Pressure Reactors & Autoclaves",
+    "page": 8,
+    "applications": [
+      "Hydrogenation",
+      "Oxidation",
+      "Polymerization",
+      "Filtration",
+      "Catalytic reactions"
+    ],
+    "description": "A stainless-steel high-pressure autoclave designed for pressure-assisted chemical processes, with pressure monitoring and controlled operation.",
+    "specifications": {
+      "Volume": "50\u2013100 ml (as per requirement)",
+      "Maximum Pressure": "Up to 140 bar",
+      "Maximum Temperature": "Up to 100 \u00b0C",
+      "Material": "SS316"
+    },
+    "custom": "Custom-made model as required by user.",
+    "image": "assets/products/page-08.jpg"
+  },
+  {
+    "id": "gmc-hpa-102",
+    "name": "Hydrothermal Autoclave",
+    "model": "GMC-HPA-102",
+    "category": "High-Pressure Reactors & Autoclaves",
+    "page": 9,
+    "applications": [
+      "Hydrothermal synthesis",
+      "Solvothermal synthesis",
+      "Nanomaterials research",
+      "Materials development"
+    ],
+    "description": "A hydrothermal autoclave reactor for hydrothermal and solvothermal synthesis under elevated temperature and pressure. The catalogue describes both standard and customized reactor volumes.",
+    "specifications": {
+      "Maximum Temperature": "Up to 200 \u00b0C",
+      "Maximum Working Pressure": "Up to 100 bar",
+      "Material": "SS316, PTFE",
+      "Sealing Design": "Nut-Bolt Type",
+      "Standard Capacities": "10 ml, 25 ml, 50 ml, 100 ml"
+    },
+    "custom": "Available in standard specifications and customized according to user needs.",
+    "image": "assets/products/page-09.jpg"
+  },
+  {
+    "id": "gmc-br-201",
+    "name": "Stirred-Tank Bioreactor",
+    "model": "GMC-BR-201",
+    "category": "Bioreactors",
+    "page": 10,
+    "applications": [
+      "Fermentation",
+      "Microbial fermentation",
+      "Enzyme production",
+      "Biotechnology research",
+      "Process optimization",
+      "Pilot-scale bioprocess development"
+    ],
+    "description": "A stirred-tank bioreactor for controlled fermentation and bioprocess development, equipped with a top-mounted motor-driven impeller and multiple process ports.",
+    "specifications": {
+      "Volume": "As per requirement",
+      "Stir Speed": "50\u2013100 rpm",
+      "Stirring Mechanism": "Mechanical Top-Drive Motor",
+      "Body and Lid Material": "SS316",
+      "Weight": "40 kg"
+    },
+    "custom": "Custom-made model as required by user.",
+    "image": "assets/products/page-10.jpg"
+  },
+  {
+    "id": "gmc-pcrx-3l01",
+    "name": "Triple-Jacketed Xenon Reactor",
+    "model": "GMC-PCRX-3L01",
+    "category": "Photochemical Reactors",
+    "page": 12,
+    "applications": [
+      "Photochemical reactions",
+      "Photocatalytic reactions"
+    ],
+    "description": "A triple-jacketed reactor designed for photochemical and photocatalytic reactions under controlled Xenon-light irradiation. The assembly uses an inner quartz immersion well, an intermediate cooling jacket and an outer borosilicate reaction vessel.",
+    "specifications": {
+      "Material Vessel/Lid": "Borosilicate Glass 3.3 / PTFE",
+      "Reactor Bottom": "Flat suitable for stirring",
+      "Reactor Design": "Threaded Outer Borosilicate reactor with Teflon",
+      "Temperature": "Up to 80 \u00b0C",
+      "Light Sources": "Compatible with UV, visible, and xenon light sources"
+    },
+    "custom": "Available in various capacities with custom configurations.",
+    "image": "assets/products/page-12.jpg"
+  },
+  {
+    "id": "gmc-pcr-4l02",
+    "name": "4-Layer Jacketed UV Photochemical Reactor",
+    "model": "GMC-PCR-4L02",
+    "category": "Photochemical Reactors",
+    "page": 13,
+    "applications": [
+      "Laboratory-scale photochemical reactions",
+      "UV reactions"
+    ],
+    "description": "A 4-layer UV photochemical reactor with a central quartz immersion well surrounded by concentric cooling and reaction chambers for controlled irradiation and temperature management.",
+    "specifications": {
+      "Capacity": "3 L",
+      "Reaction Vessel": "2 L Borosilicate Glass 3.3 with multiport lid",
+      "Material Vessel/Lid": "Borosilicate Glass 3.3 / PTFE",
+      "Operating Temperature": "20 \u00b0C",
+      "Immersion Well": "Double jacketed fused silica (Quartz Glass)",
+      "Pressure": "1 bar",
+      "Cooling Jacket": "Independent Jacket",
+      "Light Sources": "Compatible with UV, visible, and xenon light sources"
+    },
+    "custom": "Custom-made model as required by user.",
+    "image": "assets/products/page-13.jpg"
+  },
+  {
+    "id": "gmc-pcr-20l03",
+    "name": "4-Layer Jacketed UV Photochemical Reactor",
+    "model": "GMC-PCR-20L03",
+    "category": "Photochemical Reactors",
+    "page": 14,
+    "applications": [
+      "Photochemical reactions",
+      "UV/LED photochemistry",
+      "Gas-assisted reactions"
+    ],
+    "description": "A 4-layer photochemical reactor with an outer borosilicate vessel, inner double-jacketed quartz immersion well, independent coolant circulation and a gas sparging tube for nitrogen or other inert gases.",
+    "specifications": {
+      "Reaction Vessel": "Borosilicate Glass 3.3 Jacketed Vessel",
+      "Immersion Well": "Jacketed Quartz",
+      "Cooling Jacket": "Independent Jacket",
+      "Support Structure": "Structural Steel",
+      "Operating Temperature": "-23 \u00b0C (chilled brine)",
+      "Operating Pressure": "1 bar",
+      "Light Sources": "Compatible with UV, visible, and xenon light sources"
+    },
+    "custom": "Custom-made model as required by user.",
+    "image": "assets/products/page-14.jpg"
+  },
+  {
+    "id": "gmc-pcr-5l04",
+    "name": "5-Layer Jacketed Photochemical Reactor",
+    "model": "GMC-PCR-5L04",
+    "category": "Photochemical Reactors",
+    "page": 15,
+    "applications": [
+      "Photochemical reactions",
+      "UV/LED reactions",
+      "Controlled-temperature photochemistry"
+    ],
+    "description": "A 5-layer photochemical reactor featuring a central quartz immersion well surrounded by multiple concentric cooling jackets for heat dissipation and uniform irradiation.",
+    "specifications": {
+      "Reactor Vessel": "Borosilicate Glass 3.3",
+      "Immersion Well": "Double Jacketed Quartz",
+      "Operating Temperature": "\u221220 \u00b0C",
+      "Capacity": "1.5 L, 3 L, 20 L",
+      "Port": "As per requirement",
+      "Light Sources": "Compatible with UV, visible, and xenon light sources"
+    },
+    "custom": "Available in various capacities with custom configurations.",
+    "image": "assets/products/page-15.jpg"
+  },
+  {
+    "id": "gmc-sa-301",
+    "name": "Sievert Apparatus",
+    "model": "GMC-SA-301",
+    "category": "Special Instrumental Systems",
+    "page": 17,
+    "applications": [
+      "Hydrogen gas distribution",
+      "Hydrogen sorption-related research",
+      "Gas delivery to reactors"
+    ],
+    "description": "A precision-engineered manifold system for safe and reliable distribution of hydrogen gas, with pressure gauges, isolation valves, multiple connections and an integrated digital control panel.",
+    "specifications": {
+      "Material": "SS 316",
+      "Inlet Connection": "As per requirement",
+      "Outlet Connection": "As per requirement",
+      "Pressure": "50 bar",
+      "Furnace Temperature Maximum": "1050 \u00b0C"
+    },
+    "custom": "Custom-made model as required by user.",
+    "image": "assets/products/page-17.jpg"
+  },
+  {
+    "id": "gmc-pt-401",
+    "name": "Polarimeter Tube",
+    "model": "GMC-PT-401",
+    "category": "Special Instrumental Systems",
+    "page": 18,
+    "applications": [
+      "Optical activity measurements",
+      "Liquid and solution analysis"
+    ],
+    "description": "A stainless-steel polarimeter tube designed for optical activity measurements in liquids and solutions, combining an SS body with quartz optical windows.",
+    "specifications": {
+      "Material": "SS 316",
+      "Length / Internal Diameter": "100 mm / ID 10 mm",
+      "End Cap": "Quartz",
+      "Seal": "Silicon"
+    },
+    "image": "assets/products/page-18.jpg"
+  },
+  {
+    "id": "gmc-hao-501",
+    "name": "Hot Air Oven",
+    "model": "GMC-HAO-501",
+    "category": "Thermal Processing Equipment",
+    "page": 19,
+    "applications": [
+      "Dry-heat sterilization",
+      "Laboratory drying",
+      "Sterilizing pipettes",
+      "Sterilizing bottles",
+      "Sterilizing Petri dishes",
+      "Test-tube processing"
+    ],
+    "description": "A hot air oven for dry-heat sterilization and drying of laboratory glassware, metal instruments and other heat-resistant materials.",
+    "specifications": {
+      "Material": "SS316",
+      "Chamber Size": "As per requirement",
+      "Voltage": "230 V",
+      "Maximum Temperature": "200 \u00b0C",
+      "Temperature Controller": "PID Controller",
+      "Type": "Hot Air"
+    },
+    "image": "assets/products/page-19.jpg"
+  },
+  {
+    "id": "gmc-ltf-601",
+    "name": "Long Tunnel Furnace",
+    "model": "GMC-LTF-601",
+    "category": "Thermal Processing Equipment",
+    "page": 20,
+    "applications": [
+      "Continuous thermal processing",
+      "Industrial-scale heating",
+      "Materials processing"
+    ],
+    "description": "A long tunnel furnace designed for continuous thermal processing, with a refractory-lined chamber, high-grade ceramic insulation, straight kanthal heating elements and PID temperature regulation.",
+    "specifications": {
+      "Operating Temperature": "800 \u00b0C",
+      "Operating Temperature (catalogue)": "1050 \u00b0C",
+      "Heater": "Kanthal",
+      "Material and Insulation": "SS316 and Ceramic wool",
+      "Tunnel Length": "1.5 metre"
+    },
+    "custom": "Available in various capacities with custom configurations.",
+    "image": "assets/products/page-20.jpg"
+  },
+  {
+    "id": "gmc-deo-701",
+    "name": "DEO Assembly",
+    "model": "GMC-DEO-701",
+    "category": "Custom Glassware & Assemblies",
+    "page": 22,
+    "applications": [
+      "Edible oil processing",
+      "Transformer oil treatment",
+      "Lubricating oil purification",
+      "Refinery and chemical processes"
+    ],
+    "description": "A glass-based DEO assembly for deodorization, purification and treatment of industrial oils, with optional vacuum, condenser, PLC automation and skid-mounted configurations.",
+    "specifications": {
+      "Material": "Borosilicate glass 3.3",
+      "Joints": "As per requirement",
+      "Size / Dimension": "As per requirement"
+    },
+    "custom": "Optional features include vacuum system, condenser unit, PLC automation and skid-mounted design.",
+    "image": "assets/products/page-22.jpg"
+  },
+  {
+    "id": "gmc-gg-ancf-101",
+    "name": "4-Neck Cylindrical Flask with Condensers",
+    "model": "GMC-GG-ANCF-101",
+    "category": "Scientific Glassware",
+    "page": 23,
+    "applications": [
+      "Chemical synthesis",
+      "Reflux",
+      "Distillation"
+    ],
+    "description": "A multi-neck borosilicate glass reaction flask assembly with interchangeable water-cooled condensers for laboratory-scale synthesis, reflux and distillation.",
+    "specifications": {
+      "Material": "Borosilicate Glass 3.3",
+      "Configuration": "4-neck cylindrical flask with condensers"
+    },
+    "custom": "Available in various capacities with custom configurations.",
+    "image": "assets/products/page-23.jpg"
+  },
+  {
+    "id": "gmc-ancf-02",
+    "name": "4-Neck Cylindrical Flask without Condensers",
+    "model": "GMC-ANC-4CF-02",
+    "category": "Scientific Glassware",
+    "page": 23,
+    "applications": [
+      "Chemical synthesis",
+      "Laboratory reactions"
+    ],
+    "description": "A 4-neck cylindrical flask configuration intended for flexible laboratory reaction setups.",
+    "specifications": {
+      "Material": "Borosilicate Glass 3.3",
+      "Configuration": "4-neck cylindrical flask without condensers"
+    },
+    "custom": "Available in various capacities with custom configurations.",
+    "image": "assets/products/page-23.jpg"
+  },
+  {
+    "id": "gmc-gg-ssh-102",
+    "name": "Solvent Still Head",
+    "model": "GMC-GG-SSH-102",
+    "category": "Scientific Glassware",
+    "page": 23,
+    "applications": [
+      "Distillation",
+      "Solvent purification"
+    ],
+    "description": "A laboratory glass assembly for safe distillation and solvent transfer, manufactured from borosilicate glass with ground-glass joints and PTFE stopcocks.",
+    "specifications": {
+      "Material": "Borosilicate Glass 3.3",
+      "Joints": "Standard ground-glass joints",
+      "Stopcocks": "PTFE"
+    },
+    "image": "assets/products/page-23.jpg"
+  },
+  {
+    "id": "gmc-sg-rd-702",
+    "name": "Special Glassware \u2014 Reflex Divider",
+    "model": "GMC-SG-RD-702",
+    "category": "Scientific Glassware",
+    "page": 24,
+    "applications": [
+      "Reflux",
+      "Fractional distillation",
+      "Condensate distribution"
+    ],
+    "description": "A borosilicate glass reflex divider for controlling condensate distribution during reflux and fractional distillation, with modular construction and adjustable valve control.",
+    "specifications": {
+      "Material": "Borosilicate glass 3.3",
+      "Joints": "As per requirement",
+      "Valve": "PTFE, lateral, adjustable",
+      "Operating Temperature": "Up to 250\u2013300 \u00b0C"
+    },
+    "custom": "Can be supplied in custom configurations.",
+    "image": "assets/products/page-24.jpg"
+  },
+  {
+    "id": "gmc-sg-dh-703",
+    "name": "Distillation Head with Reflux",
+    "model": "GMC-SG-DH-703",
+    "category": "Scientific Glassware",
+    "page": 25,
+    "applications": [
+      "Fractional distillation",
+      "Controlled reflux",
+      "Laboratory-scale distillation"
+    ],
+    "description": "A compact glass distillation head incorporating an integral Vigenor vapour path and reflux condenser for efficient fractionation and controlled reflux.",
+    "specifications": {
+      "Material": "Borosilicate glass 3.3",
+      "Cooling Connections": "Dedicated coolant inlet/outlet",
+      "Application": "Laboratory-scale distillation and solvent purification"
+    },
+    "image": "assets/products/page-25.jpg"
+  },
+  {
+    "id": "gmc-sg-dw-704",
+    "name": "Dewar Condenser",
+    "model": "GMC-SG-DW-704",
+    "category": "Scientific Glassware",
+    "page": 25,
+    "applications": [
+      "Low-temperature condensation",
+      "Solvent and reaction systems"
+    ],
+    "description": "A Dewar condenser with a wide top opening for convenient charging of cooling media such as dry ice, liquid nitrogen or dry ice\u2013acetone mixtures.",
+    "specifications": {
+      "Material": "Typically borosilicate glass",
+      "Design": "Dewar-type condenser"
+    },
+    "image": "assets/products/page-25.jpg"
+  },
+  {
+    "id": "gmc-sg-rd-705",
+    "name": "Reflex Divider",
+    "model": "GMC-SG-RD-705",
+    "category": "Scientific Glassware",
+    "page": 26,
+    "applications": [
+      "Reflux",
+      "Distillation",
+      "Condensate distribution"
+    ],
+    "description": "A modular reflex divider for regulating the distribution of condensed liquid during reflux and distillation operations.",
+    "specifications": {
+      "Material": "Borosilicate glass 3.3 / PTFE stopcock",
+      "Joints": "As per requirement",
+      "Capacity": "50 ml, 100 ml",
+      "Size / Dimension": "As per requirement"
+    },
+    "custom": "Can be customized to suit specific process requirements.",
+    "image": "assets/products/page-26.jpg"
+  },
+  {
+    "id": "gmc-sg-jc-706",
+    "name": "Double-Jacketed Cup Condenser",
+    "model": "GMC-SG-JC-706",
+    "category": "Scientific Glassware",
+    "page": 27,
+    "applications": [
+      "Reflux",
+      "Cooling",
+      "Condensation"
+    ],
+    "description": "A borosilicate glass double-jacketed cup condenser with an integrated collection cup for reflux reactions.",
+    "specifications": {
+      "Material": "Borosilicate glass 3.3",
+      "Type": "Double-jacketed cup condenser"
+    },
+    "image": "assets/products/page-27.jpg"
+  },
+  {
+    "id": "gmc-jc-707",
+    "name": "Double-Jacketed Condenser without Hold-Up",
+    "model": "GMC-JC-707",
+    "category": "Scientific Glassware",
+    "page": 27,
+    "applications": [
+      "Reflux",
+      "Distillation",
+      "Condensation"
+    ],
+    "description": "A condenser designed to eliminate liquid hold-up during reflux and distillation by directing condensate directly to the outlet joint.",
+    "specifications": {
+      "Material": "Borosilicate glass 3.3",
+      "Type": "Double-jacketed condenser without hold-up"
+    },
+    "image": "assets/products/page-27.jpg"
+  },
+  {
+    "id": "gmc-rka-801",
+    "name": "Reaction Kettle Assembly",
+    "model": "GMC-RKA-801",
+    "category": "Custom Glassware & Assemblies",
+    "page": 28,
+    "applications": [
+      "Chemical synthesis",
+      "Photochemical reactions",
+      "Catalysis",
+      "Process development"
+    ],
+    "description": "A modular laboratory reaction system comprising interchangeable kettle bodies and multi-neck kettle covers, designed for flexible experimental configurations.",
+    "specifications": {
+      "Material": "Borosilicate glass 3.3",
+      "Locking System": "Stainless steel quick-release clamps and PTFE sealing gaskets",
+      "Temperature": "Up to 100 \u00b0C",
+      "Size and Dimension": "As per requirement"
+    },
+    "custom": "Interchangeable assemblies can be configured according to application requirements.",
+    "image": "assets/products/page-28.jpg"
+  },
+  {
+    "id": "gmc-ivc-901",
+    "name": "Aluminum and Ceramic Wool-Insulated Vacuum Column",
+    "model": "GMC-IVC-901",
+    "category": "Custom Glassware & Assemblies",
+    "page": 29,
+    "applications": [
+      "Vacuum-insulated distillation",
+      "Solvent purification",
+      "Vapour-liquid contact"
+    ],
+    "description": "A customized vacuum-insulated distillation column incorporating knitted stainless-steel mesh packing, an evacuated vacuum jacket, ceramic wool insulation and an aluminium protective cover.",
+    "specifications": {
+      "Packing": "Knitted mesh (high flux SS)",
+      "Vacuum Jacket": "Vacuum insulated",
+      "Insulation": "Ceramic wool",
+      "Outer Protection": "Aluminum sheet insulation"
+    },
+    "custom": "Available in custom configurations.",
+    "image": "assets/products/page-29.jpg"
+  },
+  {
+    "id": "gmc-sl-1001",
+    "name": "Schlenk Lines",
+    "model": "GMC-SL-1001",
+    "category": "Gas Handling & Purification",
+    "page": 30,
+    "applications": [
+      "Vacuum and inert-gas chemistry",
+      "Moisture-sensitive reactions",
+      "Air-sensitive synthesis"
+    ],
+    "description": "A precision-engineered manifold system for vacuum and inert-gas use, enabling evacuation and inert-gas purging of multiple glass assemblies.",
+    "specifications": {
+      "Material": "Borosilicate glass 3.3",
+      "No. of Ports": "3\u20135",
+      "Tube Length": "As per requirement",
+      "Tube Connectors": "B19/B24"
+    },
+    "image": "assets/products/page-30.jpg"
+  },
+  {
+    "id": "gmc-gg-103",
+    "name": "Schlenk Pressure Tube",
+    "model": "GMC-GG-103",
+    "category": "General Laboratory Glassware",
+    "page": 31,
+    "applications": [
+      "Air- and moisture-sensitive chemistry",
+      "Vacuum/inert-gas handling"
+    ],
+    "description": "A Schlenk pressure tube designed for handling air- and moisture-sensitive compounds under vacuum or inert atmosphere, with a PTFE high-vacuum valve and sidearm.",
+    "specifications": {
+      "Material": "Borosilicate glass 3.3",
+      "Valve": "PTFE high-vacuum valve",
+      "Sidearm": "Vacuum connection"
+    },
+    "image": "assets/products/page-31.jpg"
+  },
+  {
+    "id": "gmc-gg-104",
+    "name": "Storage Bottle with Glass Joint",
+    "model": "GMC-GG-104",
+    "category": "General Laboratory Glassware",
+    "page": 31,
+    "applications": [
+      "Laboratory storage",
+      "Reference and sample handling"
+    ],
+    "description": "A 20 ml borosilicate glass storage bottle with a precision ground-glass joint for secure, leak-resistant storage.",
+    "specifications": {
+      "Material": "Borosilicate glass 3.3",
+      "Capacity": "20 ml",
+      "Joint Type": "Ground joint",
+      "Size / Dimensions": "As per requirement"
+    },
+    "image": "assets/products/page-31.jpg"
+  }
+]

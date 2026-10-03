@@ -24,3 +24,17 @@ body{background:linear-gradient(180deg,#fff 0%,#fbfdff 62%,#f5faff 100%)}
 .btn-primary{box-shadow:0 8px 20px rgba(8,45,89,.14)}
 .btn-secondary{box-shadow:0 4px 14px rgba(8,45,89,.05)}
 @media(max-width:650px){.hero{background:linear-gradient(160deg,#f9fcff 0%,#eaf6fc 72%,#dceff8 100%)}}
+
+/* Laboratory furniture */
+.furniture-hero{overflow:hidden;background:radial-gradient(circle at 82% 22%,rgba(59,166,216,.2),transparent 25%),linear-gradient(135deg,#f9fcff 0%,#eaf6fc 55%,#d8eef8 100%);border-bottom:1px solid #d8e8f1}
+.furniture-hero-grid{display:grid;grid-template-columns:1fr 1fr;gap:54px;align-items:center;padding:68px 0 78px}
+.furniture-hero h1{font-size:clamp(2.7rem,5vw,4.8rem)}
+.furniture-hero p{font-size:1.08rem;color:var(--muted);max-width:690px}
+.furniture-hero-visual{position:relative}
+.furniture-hero-visual img{width:100%;border-radius:28px;box-shadow:0 28px 70px rgba(8,45,89,.15);border:1px solid rgba(255,255,255,.9)}
+.furniture-points{display:flex;flex-wrap:wrap;gap:8px;margin-top:25px}
+.furniture-points span{padding:8px 11px;border-radius:999px;background:rgba(255,255,255,.78);border:1px solid #c9dfe9;color:var(--navy);font-size:.76rem;font-weight:800}
+.furniture-feature-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
+.furniture-feature-grid .category-card .image{aspect-ratio:16/10}
+@media(max-width:1000px){.furniture-hero-grid{grid-template-columns:1fr}.furniture-hero-visual{order:-1}.furniture-feature-grid{grid-template-columns:1fr 1fr}}
+@media(max-width:650px){.furniture-feature-grid{grid-template-columns:1fr}.furniture-hero-grid{padding:48px 0 60px}.furniture-points span{font-size:.7rem}}

@@ -637,7 +637,7 @@
       "Dimensions": "Configured to laboratory layout"
     },
     "custom": "Furniture, services and storage can be configured to the laboratory plan and application.",
-    "image": "assets/furniture/workstations.svg"
+    "image": "assets/furniture/workstations.webp"
   },
   {
     "id": "gmc-lf-island-table",
@@ -658,7 +658,7 @@
       "Dimensions": "Configured to project requirement"
     },
     "custom": "Available as part of an integrated laboratory furniture layout.",
-    "image": "assets/furniture/workstations.svg"
+    "image": "assets/furniture/workstations.webp"
   },
   {
     "id": "gmc-lf-instrument-table",
@@ -679,7 +679,7 @@
       "Dimensions": "Configured to instrument and room requirements"
     },
     "custom": "Equipment-specific dimensions and service integration can be incorporated.",
-    "image": "assets/furniture/workstations.svg"
+    "image": "assets/furniture/workstations.webp"
   },
   {
     "id": "gmc-lf-fume-hood",
@@ -702,7 +702,7 @@
       "Performance Testing": "Specify and verify against the applicable project standard and test method"
     },
     "custom": "Fume-hood dimensions, lining, services, exhaust arrangement and accessories are selected according to the hazard assessment and laboratory design. A chemical fume hood is not a substitute for a biological safety cabinet when biological containment is required.",
-    "image": "assets/furniture/fume-hoods.svg"
+    "image": "assets/furniture/fume-hood.webp"
   },
   {
     "id": "gmc-lf-chemical-storage",
@@ -787,7 +787,7 @@
       "Storage": "Under-bench cupboards or drawers"
     },
     "custom": "Sink dimensions, service fittings, storage and worktop materials can be configured to the laboratory layout.",
-    "image": "assets/furniture/workstations.svg"
+    "image": "assets/furniture/workstations.webp"
   },
   {
     "id": "gmc-lf-antivibration",
@@ -809,6 +809,6 @@
       "Dimensions": "Equipment-specific"
     },
     "custom": "Isolation performance and table configuration should be selected from the instrument manufacturer's requirements and site conditions.",
-    "image": "assets/furniture/workstations.svg"
+    "image": "assets/furniture/workstations.webp"
   }
 ]

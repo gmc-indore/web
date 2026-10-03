@@ -637,7 +637,7 @@
       "Dimensions": "Configured to laboratory layout"
     },
     "custom": "Furniture, services and storage can be configured to the laboratory plan and application.",
-    "image": "assets/furniture/workstations.svg"
+    "image": "assets/furniture/workstations.webp"
   },
   {
     "id": "gmc-lf-island-table",
@@ -658,7 +658,7 @@
       "Dimensions": "Configured to project requirement"
     },
     "custom": "Available as part of an integrated laboratory furniture layout.",
-    "image": "assets/furniture/workstations.svg"
+    "image": "assets/furniture/island-table.webp"
   },
   {
     "id": "gmc-lf-instrument-table",
@@ -679,7 +679,7 @@
       "Dimensions": "Configured to instrument and room requirements"
     },
     "custom": "Equipment-specific dimensions and service integration can be incorporated.",
-    "image": "assets/furniture/workstations.svg"
+    "image": "assets/furniture/instrument-table.webp"
   },
   {
     "id": "gmc-lf-fume-hood",
@@ -702,7 +702,7 @@
       "Performance Testing": "Specify and verify against the applicable project standard and test method"
     },
     "custom": "Fume-hood dimensions, lining, services, exhaust arrangement and accessories are selected according to the hazard assessment and laboratory design. A chemical fume hood is not a substitute for a biological safety cabinet when biological containment is required.",
-    "image": "assets/furniture/fume-hoods.svg"
+    "image": "assets/furniture/fume-hood.webp"
   },
   {
     "id": "gmc-lf-chemical-storage",
@@ -723,7 +723,7 @@
       "Locking": "Lockable configuration available"
     },
     "custom": "Chemical storage should be specified according to the chemical classes, quantities, compatibility and applicable local safety requirements.",
-    "image": "assets/furniture/storage-cupboards.svg"
+    "image": "assets/furniture/chemical-storage.webp"
   },
   {
     "id": "gmc-lf-overhead",
@@ -744,7 +744,7 @@
       "Dimensions": "Configured to wall and bench layout"
     },
     "custom": "Door type, shelf arrangement, dimensions and finish can be coordinated with the laboratory furniture system.",
-    "image": "assets/furniture/storage-cupboards.svg"
+    "image": "assets/furniture/overhead-storage.webp"
   },
   {
     "id": "gmc-lf-tall-storage",
@@ -765,7 +765,7 @@
       "Locking": "Lockable configuration available"
     },
     "custom": "Internal layout and dimensions can be configured around stored items and laboratory workflow.",
-    "image": "assets/furniture/storage-cupboards.svg"
+    "image": "assets/furniture/tall-storage.webp"
   },
   {
     "id": "gmc-lf-sink-bench",
@@ -787,7 +787,7 @@
       "Storage": "Under-bench cupboards or drawers"
     },
     "custom": "Sink dimensions, service fittings, storage and worktop materials can be configured to the laboratory layout.",
-    "image": "assets/furniture/workstations.svg"
+    "image": "assets/furniture/sink-bench.webp"
   },
   {
     "id": "gmc-lf-antivibration",
@@ -809,6 +809,6 @@
       "Dimensions": "Equipment-specific"
     },
     "custom": "Isolation performance and table configuration should be selected from the instrument manufacturer's requirements and site conditions.",
-    "image": "assets/furniture/workstations.svg"
+    "image": "assets/furniture/antivibration-bench.webp"
   }
 ]

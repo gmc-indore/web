@@ -1,7 +1,7 @@
 [
   {
     "id": "gmc-hpr-sg",
-    "name": "High-Pressure Reactor \u2014 Split Glove Box Series",
+    "name": "High-Pressure Reactor — Split Glove Box Series",
     "model": "GMC-HPR-SG",
     "category": "High-Pressure Reactors & Autoclaves",
     "page": 5,
@@ -15,7 +15,7 @@
     "specifications": {
       "Model No.": "HPR-SG-25 / HPR-SG-50 / HPR-SG-100",
       "Maximum Pressure": "Up to 150 bar",
-      "Maximum Temperature": "Up to 200 \u00b0C",
+      "Maximum Temperature": "Up to 200 °C",
       "Reactor Volume": "25 ml to 100 ml (as per requirement)",
       "Material": "SS316, PTFE",
       "Heating Control": "Digital PID Controller",
@@ -27,7 +27,7 @@
   },
   {
     "id": "gmc-hpr-hpr-im",
-    "name": "High-Pressure Reactor \u2014 Integrated Magnetic Stirring Series",
+    "name": "High-Pressure Reactor — Integrated Magnetic Stirring Series",
     "model": "GMC-HPR-HPR-IM",
     "category": "High-Pressure Reactors & Autoclaves",
     "page": 6,
@@ -40,7 +40,7 @@
     "specifications": {
       "Model No.": "HPR-IM-25 / HPR-IM-50 / HPR-IM-100",
       "Maximum Pressure": "Up to 150 bar",
-      "Maximum Temperature": "Up to 200 \u00b0C",
+      "Maximum Temperature": "Up to 200 °C",
       "Reactor Volume": "25 ml to 100 ml (as per requirement)",
       "Material": "SS316, PTFE",
       "Heating Control": "Digital PID Controller",
@@ -52,7 +52,7 @@
   },
   {
     "id": "hpr-iv",
-    "name": "High-Pressure Reactor \u2014 Integrated Vertical Series",
+    "name": "High-Pressure Reactor — Integrated Vertical Series",
     "model": "HPR-IV",
     "category": "High-Pressure Reactors & Autoclaves",
     "page": 7,
@@ -66,7 +66,7 @@
     "specifications": {
       "Model No.": "HPR-IV-25 / HPR-IV-50 / HPR-IV-100",
       "Maximum Pressure": "Up to 150 bar",
-      "Maximum Temperature": "Up to 200 \u00b0C",
+      "Maximum Temperature": "Up to 200 °C",
       "Reactor Volume": "25 ml to 100 ml (as per requirement)",
       "Material": "SS316, PTFE",
       "Heating Control": "Digital PID Controller",
@@ -91,9 +91,9 @@
     ],
     "description": "A stainless-steel high-pressure autoclave designed for pressure-assisted chemical processes, with pressure monitoring and controlled operation.",
     "specifications": {
-      "Volume": "50\u2013100 ml (as per requirement)",
+      "Volume": "50–100 ml (as per requirement)",
       "Maximum Pressure": "Up to 140 bar",
-      "Maximum Temperature": "Up to 100 \u00b0C",
+      "Maximum Temperature": "Up to 100 °C",
       "Material": "SS316"
     },
     "custom": "Custom-made model as required by user.",
@@ -113,7 +113,7 @@
     ],
     "description": "A hydrothermal autoclave reactor for hydrothermal and solvothermal synthesis under elevated temperature and pressure. The catalogue describes both standard and customized reactor volumes.",
     "specifications": {
-      "Maximum Temperature": "Up to 200 \u00b0C",
+      "Maximum Temperature": "Up to 200 °C",
       "Maximum Working Pressure": "Up to 100 bar",
       "Material": "SS316, PTFE",
       "Sealing Design": "Nut-Bolt Type",
@@ -139,7 +139,7 @@
     "description": "A stirred-tank bioreactor for controlled fermentation and bioprocess development, equipped with a top-mounted motor-driven impeller and multiple process ports.",
     "specifications": {
       "Volume": "As per requirement",
-      "Stir Speed": "50\u2013100 rpm",
+      "Stir Speed": "50–100 rpm",
       "Stirring Mechanism": "Mechanical Top-Drive Motor",
       "Body and Lid Material": "SS316",
       "Weight": "40 kg"
@@ -162,7 +162,7 @@
       "Material Vessel/Lid": "Borosilicate Glass 3.3 / PTFE",
       "Reactor Bottom": "Flat suitable for stirring",
       "Reactor Design": "Threaded Outer Borosilicate reactor with Teflon",
-      "Temperature": "Up to 80 \u00b0C",
+      "Temperature": "Up to 80 °C",
       "Light Sources": "Compatible with UV, visible, and xenon light sources"
     },
     "custom": "Available in various capacities with custom configurations.",
@@ -183,7 +183,7 @@
       "Capacity": "3 L",
       "Reaction Vessel": "2 L Borosilicate Glass 3.3 with multiport lid",
       "Material Vessel/Lid": "Borosilicate Glass 3.3 / PTFE",
-      "Operating Temperature": "20 \u00b0C",
+      "Operating Temperature": "20 °C",
       "Immersion Well": "Double jacketed fused silica (Quartz Glass)",
       "Pressure": "1 bar",
       "Cooling Jacket": "Independent Jacket",
@@ -209,7 +209,7 @@
       "Immersion Well": "Jacketed Quartz",
       "Cooling Jacket": "Independent Jacket",
       "Support Structure": "Structural Steel",
-      "Operating Temperature": "-23 \u00b0C (chilled brine)",
+      "Operating Temperature": "-23 °C (chilled brine)",
       "Operating Pressure": "1 bar",
       "Light Sources": "Compatible with UV, visible, and xenon light sources"
     },
@@ -231,7 +231,7 @@
     "specifications": {
       "Reactor Vessel": "Borosilicate Glass 3.3",
       "Immersion Well": "Double Jacketed Quartz",
-      "Operating Temperature": "\u221220 \u00b0C",
+      "Operating Temperature": "−20 °C",
       "Capacity": "1.5 L, 3 L, 20 L",
       "Port": "As per requirement",
       "Light Sources": "Compatible with UV, visible, and xenon light sources"
@@ -256,7 +256,7 @@
       "Inlet Connection": "As per requirement",
       "Outlet Connection": "As per requirement",
       "Pressure": "50 bar",
-      "Furnace Temperature Maximum": "1050 \u00b0C"
+      "Furnace Temperature Maximum": "1050 °C"
     },
     "custom": "Custom-made model as required by user.",
     "image": "assets/products/page-17.jpg"
@@ -299,7 +299,7 @@
       "Material": "SS316",
       "Chamber Size": "As per requirement",
       "Voltage": "230 V",
-      "Maximum Temperature": "200 \u00b0C",
+      "Maximum Temperature": "200 °C",
       "Temperature Controller": "PID Controller",
       "Type": "Hot Air"
     },
@@ -318,8 +318,8 @@
     ],
     "description": "A long tunnel furnace designed for continuous thermal processing, with a refractory-lined chamber, high-grade ceramic insulation, straight kanthal heating elements and PID temperature regulation.",
     "specifications": {
-      "Operating Temperature": "800 \u00b0C",
-      "Operating Temperature (catalogue)": "1050 \u00b0C",
+      "Operating Temperature": "800 °C",
+      "Operating Temperature (catalogue)": "1050 °C",
       "Heater": "Kanthal",
       "Material and Insulation": "SS316 and Ceramic wool",
       "Tunnel Length": "1.5 metre"
@@ -405,7 +405,7 @@
   },
   {
     "id": "gmc-sg-rd-702",
-    "name": "Special Glassware \u2014 Reflex Divider",
+    "name": "Special Glassware — Reflex Divider",
     "model": "GMC-SG-RD-702",
     "category": "Scientific Glassware",
     "page": 24,
@@ -419,7 +419,7 @@
       "Material": "Borosilicate glass 3.3",
       "Joints": "As per requirement",
       "Valve": "PTFE, lateral, adjustable",
-      "Operating Temperature": "Up to 250\u2013300 \u00b0C"
+      "Operating Temperature": "Up to 250–300 °C"
     },
     "custom": "Can be supplied in custom configurations.",
     "image": "assets/products/page-24.jpg"
@@ -453,7 +453,7 @@
       "Low-temperature condensation",
       "Solvent and reaction systems"
     ],
-    "description": "A Dewar condenser with a wide top opening for convenient charging of cooling media such as dry ice, liquid nitrogen or dry ice\u2013acetone mixtures.",
+    "description": "A Dewar condenser with a wide top opening for convenient charging of cooling media such as dry ice, liquid nitrogen or dry ice–acetone mixtures.",
     "specifications": {
       "Material": "Typically borosilicate glass",
       "Design": "Dewar-type condenser"
@@ -533,7 +533,7 @@
     "specifications": {
       "Material": "Borosilicate glass 3.3",
       "Locking System": "Stainless steel quick-release clamps and PTFE sealing gaskets",
-      "Temperature": "Up to 100 \u00b0C",
+      "Temperature": "Up to 100 °C",
       "Size and Dimension": "As per requirement"
     },
     "custom": "Interchangeable assemblies can be configured according to application requirements.",
@@ -574,7 +574,7 @@
     "description": "A precision-engineered manifold system for vacuum and inert-gas use, enabling evacuation and inert-gas purging of multiple glass assemblies.",
     "specifications": {
       "Material": "Borosilicate glass 3.3",
-      "No. of Ports": "3\u20135",
+      "No. of Ports": "3–5",
       "Tube Length": "As per requirement",
       "Tube Connectors": "B19/B24"
     },
@@ -616,5 +616,199 @@
       "Size / Dimensions": "As per requirement"
     },
     "image": "assets/products/page-31.jpg"
+  },
+  {
+    "id": "gmc-lf-workbench",
+    "name": "Modular Laboratory Workbench",
+    "model": "Custom configuration",
+    "category": "Laboratory Furniture",
+    "applications": [
+      "Research laboratories",
+      "Analytical laboratories",
+      "Teaching laboratories",
+      "QC laboratories"
+    ],
+    "description": "Configurable laboratory workbench systems for routine experimental work, sample preparation and instrument support. Layouts can be configured as wall-side, island or other project-specific arrangements.",
+    "specifications": {
+      "Configuration": "Wall-side, island or project-specific",
+      "Work Surface": "Selected according to chemical, thermal and workflow requirements",
+      "Frame / Casework": "Powder-coated steel, stainless steel or other specified construction",
+      "Services": "Electrical, water, gas and other utilities as required",
+      "Dimensions": "Configured to laboratory layout"
+    },
+    "custom": "Furniture, services and storage can be configured to the laboratory plan and application.",
+    "image": "assets/furniture/workstations.svg"
+  },
+  {
+    "id": "gmc-lf-island-table",
+    "name": "Island / Centre Laboratory Table",
+    "model": "Custom configuration",
+    "category": "Laboratory Furniture",
+    "applications": [
+      "Shared research laboratories",
+      "Teaching laboratories",
+      "High-throughput laboratory workflows"
+    ],
+    "description": "Double-sided central laboratory furniture for shared work areas, with configurable work surfaces, service distribution, under-bench storage and utility modules.",
+    "specifications": {
+      "Configuration": "Double-sided island / centre table",
+      "Work Surface": "Application-specific chemical- and heat-resistant surface",
+      "Services": "Electrical, water, gas and other utilities as required",
+      "Storage": "Drawers, cupboards or mobile units as configured",
+      "Dimensions": "Configured to project requirement"
+    },
+    "custom": "Available as part of an integrated laboratory furniture layout.",
+    "image": "assets/furniture/workstations.svg"
+  },
+  {
+    "id": "gmc-lf-instrument-table",
+    "name": "Instrument Workstation / Table",
+    "model": "Custom configuration",
+    "category": "Laboratory Furniture",
+    "applications": [
+      "Analytical instrumentation",
+      "Research laboratories",
+      "QC laboratories"
+    ],
+    "description": "Stable laboratory workstation for analytical and scientific instruments, configured around equipment footprint, operator access, cable management and service requirements.",
+    "specifications": {
+      "Configuration": "Wall-side or freestanding",
+      "Work Surface": "Selected for instrument load and operating environment",
+      "Cable Management": "Integrated routing / service provisions as required",
+      "Storage": "Under-bench cabinets or drawers as required",
+      "Dimensions": "Configured to instrument and room requirements"
+    },
+    "custom": "Equipment-specific dimensions and service integration can be incorporated.",
+    "image": "assets/furniture/workstations.svg"
+  },
+  {
+    "id": "gmc-lf-fume-hood",
+    "name": "Laboratory Fume Hood for Chemical Synthesis & Bio Laboratories",
+    "model": "Custom configuration",
+    "category": "Laboratory Furniture",
+    "applications": [
+      "Chemical synthesis",
+      "Organic and inorganic chemistry",
+      "Analytical chemistry",
+      "Biochemistry and life-science laboratories involving chemical hazards"
+    ],
+    "description": "Ventilated laboratory fume hood systems for work involving chemical fumes, vapours and aerosols. Configurations can be developed around laboratory workflow, available exhaust infrastructure and the materials handled.",
+    "specifications": {
+      "Type": "Project-configured laboratory fume hood",
+      "Construction Options": "Powder-coated steel, stainless steel, polypropylene or other application-specific construction",
+      "Sash": "Safety-glass sash configuration as specified",
+      "Services": "Electrical, water, gas and other services as required",
+      "Exhaust": "Ducted exhaust system engineered for the installation",
+      "Performance Testing": "Specify and verify against the applicable project standard and test method"
+    },
+    "custom": "Fume-hood dimensions, lining, services, exhaust arrangement and accessories are selected according to the hazard assessment and laboratory design. A chemical fume hood is not a substitute for a biological safety cabinet when biological containment is required.",
+    "image": "assets/furniture/fume-hoods.svg"
+  },
+  {
+    "id": "gmc-lf-chemical-storage",
+    "name": "Chemical Storage Cupboard",
+    "model": "Custom configuration",
+    "category": "Laboratory Furniture",
+    "applications": [
+      "Chemical reagent storage",
+      "Corrosive chemical storage",
+      "Laboratory chemical segregation"
+    ],
+    "description": "Dedicated storage cupboards for laboratory chemicals and reagents, configurable for segregation, access control, chemical resistance, spill management and ventilation requirements.",
+    "specifications": {
+      "Construction": "Application-specific steel, polypropylene or other chemical-resistant construction",
+      "Shelving": "Adjustable shelves / partitions as required",
+      "Ventilation": "Provision where required by the storage and installation design",
+      "Containment": "Spill-retention features as specified",
+      "Locking": "Lockable configuration available"
+    },
+    "custom": "Chemical storage should be specified according to the chemical classes, quantities, compatibility and applicable local safety requirements.",
+    "image": "assets/furniture/storage-cupboards.svg"
+  },
+  {
+    "id": "gmc-lf-overhead",
+    "name": "Overhead Storage Cupboard",
+    "model": "Custom configuration",
+    "category": "Laboratory Furniture",
+    "applications": [
+      "Glassware storage",
+      "Reagent and consumable storage",
+      "Space-efficient laboratory layouts"
+    ],
+    "description": "Wall-mounted or suspended storage cupboards designed to use vertical laboratory space while keeping frequently accessed materials organized above the workbench.",
+    "specifications": {
+      "Configuration": "Wall-mounted / overhead",
+      "Shelving": "Adjustable internal shelving",
+      "Door Options": "Solid or glazed, as required",
+      "Construction": "Powder-coated steel, stainless steel, laminate or other specified construction",
+      "Dimensions": "Configured to wall and bench layout"
+    },
+    "custom": "Door type, shelf arrangement, dimensions and finish can be coordinated with the laboratory furniture system.",
+    "image": "assets/furniture/storage-cupboards.svg"
+  },
+  {
+    "id": "gmc-lf-tall-storage",
+    "name": "Tall Laboratory Storage Cabinet",
+    "model": "Custom configuration",
+    "category": "Laboratory Furniture",
+    "applications": [
+      "General laboratory storage",
+      "Glassware and consumables",
+      "PPE and equipment storage"
+    ],
+    "description": "Full-height laboratory storage cabinet for organized storage of equipment, glassware, consumables and laboratory accessories.",
+    "specifications": {
+      "Configuration": "Floor-standing full-height cabinet",
+      "Shelving": "Adjustable shelving / compartmentalized interior",
+      "Doors": "Solid or glazed options",
+      "Construction": "Powder-coated steel, stainless steel, laminate or other specified construction",
+      "Locking": "Lockable configuration available"
+    },
+    "custom": "Internal layout and dimensions can be configured around stored items and laboratory workflow.",
+    "image": "assets/furniture/storage-cupboards.svg"
+  },
+  {
+    "id": "gmc-lf-sink-bench",
+    "name": "Sink Bench / Wet Workstation",
+    "model": "Custom configuration",
+    "category": "Laboratory Furniture",
+    "applications": [
+      "Wet chemistry",
+      "Sample preparation",
+      "Glassware washing",
+      "Biology and life-science laboratories"
+    ],
+    "description": "Wet-area laboratory benching integrating a chemical-resistant work surface with sink, drainage, storage and utility services.",
+    "specifications": {
+      "Configuration": "Wall-side or project-specific",
+      "Sink": "PP, stainless steel or other specified basin",
+      "Work Surface": "Chemical-resistant surface selected for application",
+      "Utilities": "Water, drainage and electrical services as required",
+      "Storage": "Under-bench cupboards or drawers"
+    },
+    "custom": "Sink dimensions, service fittings, storage and worktop materials can be configured to the laboratory layout.",
+    "image": "assets/furniture/workstations.svg"
+  },
+  {
+    "id": "gmc-lf-antivibration",
+    "name": "Anti-Vibration Instrument Table",
+    "model": "Custom configuration",
+    "category": "Laboratory Furniture",
+    "applications": [
+      "Analytical balances",
+      "Precision weighing",
+      "Microscopy",
+      "Vibration-sensitive instruments"
+    ],
+    "description": "Dedicated instrument furniture intended to isolate sensitive measurements from routine laboratory activity and provide a stable working platform.",
+    "specifications": {
+      "Configuration": "Independent instrument table",
+      "Isolation": "Vibration-isolation system selected for the instrument and site",
+      "Work Surface": "Rigid precision work surface",
+      "Installation": "Configured for room floor and instrument requirements",
+      "Dimensions": "Equipment-specific"
+    },
+    "custom": "Isolation performance and table configuration should be selected from the instrument manufacturer's requirements and site conditions.",
+    "image": "assets/furniture/workstations.svg"
   }
 ]
